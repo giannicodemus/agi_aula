@@ -1,0 +1,6 @@
+{
+    "name": "giannicodemus/agi_aula",
+    "require": {
+        "d4rkstar/phpagi": "dev-master"
+    }
+}
